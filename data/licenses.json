@@ -1,0 +1,16 @@
+[
+  {
+    "id": "lic_1791727590376_bb02",
+    "clientIdentifier": "03001234567",
+    "passcode": "9115",
+    "token": "nex_fa320785cea39062",
+    "allowedDevices": 1,
+    "claimedDevices": [
+      "device-phone-1"
+    ],
+    "createdAt": 1791727590376,
+    "expiresAt": 1791813990376,
+    "isRevoked": false,
+    "notes": "Approved by Rafay for PKR 1,999 (Valid for 24h)"
+  }
+]
